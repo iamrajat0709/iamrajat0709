@@ -1,20 +1,33 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+# Hey 👋, I'm Rajat Bhatt
 
-<p align="left">$ My name is Rajat Bhatt.<br> $ I'm a Cybersecurity Intern.<br>  $ Dehradun, Uttarakhand, India.</p>
+🎯 Aspiring Cybersecurity Professional  
+📍 Based in Dehradun, Uttarakhand, India  
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 💡 About Me
 
-###
+🔐 I'm currently exploring real-world hacking techniques.  
+🎓 Certified in CEH & Google Cybersecurity.  
+🎯 Goal: Become a cybersecurity analyst / penetration tester.  
+🧠 Fun Fact: I love breaking things to learn how they work (ethically, of course 😉).
 
-<p align="left">📚 I'm currently learning real world hacking technique.<br>🎯 Goals: Cyber security expert.<br>🎲 Fun fact:  sudo rm -rf */</p>
+---
 
-###
+## 🛠️ Tech Stack & Tools I Use
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-F26D50?style=for-the-badge&logo=burpsuite&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<h2 align="left">I am using:</h2>
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajat-bhatt-🛡%EF%B8%8F-106188361/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram)](https://www.instagram.com/hack_hub07)
+
 
 ###
 
