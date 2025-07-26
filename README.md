@@ -1,22 +1,22 @@
 
 # Hey 👋, I'm Rajat Bhatt
 
-🎯 Aspiring Cybersecurity Professional  
-📍 Based in Dehradun, Uttarakhand, India  
+🎯 ETHICAL HACKER
+📍 DEHRADUN
 
 ---
 
-## 💡 About Me
+## 💡 ABOUT ME!
 
-🔐 I'm currently exploring real-world hacking techniques.  
-🎓 Certified in CEH & Google Cybersecurity.  
-🎯 Goal: Become a cybersecurity analyst / penetration tester.  
-🧠 Fun Fact: I love breaking things to learn how they work (ethically, of course 😉).
+🔐 I AM CURRENTLY EXPLORING REAL WORLD HACKING TECHNIQUE
+🎓 CEH | GOOGLE CYBERSECURITY CERTIFIED
+🎯 PENTRATION TESTER | CYBER SECURITY EXPERT
+🧠 FUN FACT: I LOVE BREAKING THINGS TO LEARN HOW THEY WORK. (ETHICALLY OF COURSE 😉).
 
 ---
 
 ###
-## I am using:
+## I AM USING 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
