@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrajat0709" alt="iamrajat0709" /></a> </p>
 
-- 🔭 I’m currently working on **my hacking skill**
+
+<img align="right" alt="Coding" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BvOTJ0eTBlZGVzaTl5aGFtczl6YmtlOGl5cWljMncxOTF5dnJnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+
+- 🔭 I’m currently working on **my hacking skill**  
 
 - 🌱 I’m currently learning **web pentration testing**
 
